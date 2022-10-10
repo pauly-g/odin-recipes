@@ -4,6 +4,24 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    color:rgb(192, 22, 22);
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+    text-align: center;  
+}
+
+h4 {
+    color:rgb(6, 35, 119);
+    font-family:'Segoe UI', Tahoma, "Geneva", Verdana, sans-serif;
+    text-align: center;  
+}
+
+p {
+    color:rgb(192, 22, 22);
+    font-family:"Cambria, Cochin", Georgia, Times, 'Times New Roman', serif;
+    text-align: center;    
+}
+
 .section.points {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', "Geneva", Verdana, sans-serif;
 }
@@ -15,14 +33,17 @@ h1 {
 ol {
  /*Center Horizontally*/ 
  text-align: center;
+ list-style-position: inside;
 }
 
 ul {
- text-align: center;    
+ text-align: center; 
+ list-style-position: inside;   
 }
 
 li {
-  text-align: center;  
+  text-align: center;
+  list-style-position: inside;  
 }
 
 img.center {
