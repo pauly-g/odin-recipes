@@ -1,3 +1,22 @@
+#headings {
+    padding: 30px;
+    text-align: center;
+    margin: 20px;
+    background-color: beige;
+    margin;
+        margin-left: 390px;
+        margin-right: 390px;
+        margin-top: 10px;
+        margin-bottom: 10px
+}
+
+#wrapper {
+    padding: 30px;
+    text-align: center;
+    margin: 20px;
+    background-color: rgb(169, 159, 220);
+}
+
 h1 {
     color:rgb(2, 52, 94);
     font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
